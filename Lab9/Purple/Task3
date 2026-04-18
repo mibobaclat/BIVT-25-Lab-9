@@ -90,7 +90,6 @@ namespace Lab9.Purple
                 idx++;
             }
 
-            // Сортировка пузырьком
             for (int i = 0; i < entries.Length - 1; i++)
             {
                 for (int j = 0; j < entries.Length - i - 1; j++)
